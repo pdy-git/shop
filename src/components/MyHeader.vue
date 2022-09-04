@@ -2,6 +2,7 @@
   <div class="my-header" :style="{ background: backgroundColor, color }">
     {{ title }}
     11
+    <p>12345</p>
   </div>
 </template>
 
