@@ -1,6 +1,7 @@
 <template>
   <div class="my-header" :style="{ background: backgroundColor, color }">
     {{ title }}
+    11
   </div>
 </template>
 
