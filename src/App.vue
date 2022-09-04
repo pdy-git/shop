@@ -9,7 +9,7 @@
       <MyGoods v-for="(item, index) in list" :key="index" :obj="item"></MyGoods>
     </div>
     <MyFooter></MyFooter>
-    1234567 1234567
+    1234567 1234567 123456123456
   </div>
 </template>
 
